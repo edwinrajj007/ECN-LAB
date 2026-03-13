@@ -35,6 +35,13 @@
 
 
 
+**CALCULATION**
+
+
+
+
+
+
 **PROCEDURE:**
 
  *1.Give connections as per the circuit diagram.*
@@ -48,6 +55,17 @@
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
+
+
+**TABULARCOLUMN**
+
+
+
+
+ **MARK SPLIT - UP**
+ 
+
+ 
 
 **RESULT:**
 
